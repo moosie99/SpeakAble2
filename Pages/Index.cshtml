@@ -1,0 +1,83 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Homepage";
+}
+
+<body style="font-family: 'Courier New', monospace; background-color:#E7C6FF; font-weight:900;">
+    <audio src="~/media/GJoeBackgroundMusic.mp3" autoplay="autoplay" loop="loop"></audio>
+    <img src="media/logo.png" width="120px" style="margin-left:auto; margin-right:auto; display:block;" alt="Logo" />
+    <div class="text-center">
+        <h1 class="display-4">Welcome to SpeakAble</h1>
+        <p>Connecting People, One Conversation at a Time – Welcome to a World Where Every Voice is Heard!</p>
+    </div>
+    <br />
+
+
+    <div style="overflow-x: scroll; width: 100%; scrollbar-color:#A0C4FF #9BF6FF;">
+        <table style="margin-left:auto; margin-right:auto;">
+            <tr>
+                <th colspan="4" style="text-decoration:underline; padding-bottom:10px;">Sheep</th>
+            </tr>
+            <tr>
+                <td>
+                    <a asp-page="/Sheep/Happy" style="color:aqua;"><img src="media/happySheep.png" style="width:100px; border-style:solid; border-radius:5px;" /></a>
+                    <p style="font-family:'Comic Sans MS'; text-align:center;">Happy</p>
+                </td>
+                <td style="padding-left:50px;">
+                    <a asp-page="/Sheep/Sad" style="color:aqua;"><img src="media/sadSheep.png" style="width:100px; border-style:solid; border-radius:5px;" /></a>
+                    <p style="font-family:'Comic Sans MS'; text-align:center;">Sad</p>
+                </td>
+                <td style="padding-left:50px;">
+                    <a asp-page="/Sheep/Hungry" style="color:aqua;"><img src="media/hungrySheep.png" style="width:100px; border-style:solid; border-radius:5px;" /></a>
+                    <p style="font-family:'Comic Sans MS'; text-align:center;">Hungry</p>
+                </td>
+                <td style="padding-left:50px;">
+                    <a asp-page="/Sheep/Angry" style="color:aqua;"><img src="media/angrySheep.png" style="width:100px; border-style:solid; border-radius:5px;" /></a>
+                    <p style="font-family:'Comic Sans MS'; text-align:center;">Angry</p>
+                </td>
+                <td style="padding-left:50px;">
+                    <a asp-page="/Sheep/Thirsty" style="color:aqua;"><img src="media/thirstySheep.png" style="width:100px; border-style:solid; border-radius:5px;" /></a>
+                    <p style="font-family:'Comic Sans MS'; text-align:center;">Thirsty</p>
+                </td>
+                <td style="padding-left:50px;">
+                    <a asp-page="/Sheep/Alone" style="color:aqua;"><img src="media/aloneSheep.png" style="width:100px; border-style:solid; border-radius:5px;" /></a>
+                    <p style="font-family:'Comic Sans MS'; text-align:center;">Alone</p>
+                </td>
+                <td style="padding-left:50px;">
+                    <a asp-page="/Sheep/Toilet" style="color:aqua;"><img src="media/toiletSheep.png" style="width:100px; border-style:solid; border-radius:5px;" /></a>
+                    <p style="font-family:'Comic Sans MS'; text-align:center;">Toilet</p>
+                </td>
+                <td style="padding-left:50px;">
+                    <a asp-page="/Sheep/Bath" style="color:aqua;"><img src="media/bathSheep.png" style="width:100px; border-style:solid; border-radius:5px;" /></a>
+                    <p style="font-family:'Comic Sans MS'; text-align:center;">Bath</p>
+                </td>
+                <td style="padding-left:50px;">
+                    <a asp-page="/Sheep/Company" style="color:aqua;"><img src="media/companySheep.png" style="width:100px; border-style:solid; border-radius:5px;" /></a>
+                    <p style="font-family:'Comic Sans MS'; text-align:center;">Company</p>
+                </td>
+                <td style="padding-left:50px;">
+                    <a asp-page="/Sheep/Dressed" style="color:aqua;"><img src="media/dressedSheep.png" style="width:100px; border-style:solid; border-radius:5px;" /></a>
+                    <p style="font-family:'Comic Sans MS'; text-align:center;">Dressed</p>
+                </td>
+                <td style="padding-left:50px;">
+                    <a asp-page="/Sheep/Medication" style="color:aqua;"><img src="media/medsSheep.png" style="width:100px; border-style:solid; border-radius:5px;" /></a>
+                    <p style="font-family:'Comic Sans MS'; text-align:center;">Medication</p>
+                </td>
+                <td style="padding-left:50px;">
+                    <a asp-page="/Sheep/Pain" style="color:aqua;"><img src="media/painSheep.png" style="width:100px; border-style:solid; border-radius:5px;" /></a>
+                    <p style="font-family:'Comic Sans MS'; text-align:center;">Pain</p>
+                </td>
+                <td style="padding-left:50px;">
+                    <a asp-page="/Sheep/Tired" style="color:aqua;"><img src="media/tiredSheep.png" style="width:100px; border-style:solid; border-radius:5px;" /></a>
+                    <p style="font-family:'Comic Sans MS'; text-align:center;">Tired</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <br />
+
+
+</body>
+
+

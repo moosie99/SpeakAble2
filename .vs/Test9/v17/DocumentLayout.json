@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|c:\\users\\emmah\\onedrive\\documents\\uni\\fyp\\test9\\test9.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|solutionrelative:test9.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|c:\\users\\emmah\\onedrive\\documents\\uni\\fyp\\test9\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|c:\\users\\emmah\\onedrive\\documents\\uni\\fyp\\test9\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|c:\\users\\emmah\\onedrive\\documents\\uni\\fyp\\test9\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|c:\\users\\emmah\\onedrive\\documents\\uni\\fyp\\test9\\pages\\crisispage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|solutionrelative:pages\\crisispage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|c:\\users\\emmah\\onedrive\\documents\\uni\\fyp\\test9\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|c:\\users\\emmah\\onedrive\\documents\\uni\\fyp\\test9\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|c:\\users\\emmah\\onedrive\\documents\\uni\\fyp\\test9\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|solutionrelative:pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|c:\\users\\emmah\\onedrive\\documents\\uni\\fyp\\test9\\pages\\sheep\\medication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|solutionrelative:pages\\sheep\\medication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|c:\\users\\emmah\\onedrive\\documents\\uni\\fyp\\test9\\pages\\sheep\\tired.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|solutionrelative:pages\\sheep\\tired.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|c:\\users\\emmah\\onedrive\\documents\\uni\\fyp\\test9\\pages\\sheep\\company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D32D98-B0F1-443A-BD6F-80A747A23C42}|Test9.csproj|solutionrelative:pages\\sheep\\company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test9",
+              "DocumentMoniker": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Test9.csproj",
+              "RelativeDocumentMoniker": "Test9.csproj",
+              "ToolTip": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Test9.csproj",
+              "RelativeToolTip": "Test9.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T09:53:25.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T14:13:48.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAgAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T14:01:15.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T13:57:21.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Medication.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Pages\\Sheep\\Medication.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Sheep\\Medication.cshtml",
+              "ToolTip": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Pages\\Sheep\\Medication.cshtml",
+              "RelativeToolTip": "Pages\\Sheep\\Medication.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T13:20:25.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tired.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Pages\\Sheep\\Tired.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Sheep\\Tired.cshtml",
+              "ToolTip": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Pages\\Sheep\\Tired.cshtml",
+              "RelativeToolTip": "Pages\\Sheep\\Tired.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T13:19:34.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Company.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Pages\\Sheep\\Company.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Sheep\\Company.cshtml",
+              "ToolTip": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Pages\\Sheep\\Company.cshtml",
+              "RelativeToolTip": "Pages\\Sheep\\Company.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T13:14:27.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrisisPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Pages\\CrisisPage.cshtml",
+              "RelativeDocumentMoniker": "Pages\\CrisisPage.cshtml",
+              "ToolTip": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Pages\\CrisisPage.cshtml",
+              "RelativeToolTip": "Pages\\CrisisPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T14:05:48.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T12:48:30.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-26T14:15:33.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T11:27:10.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

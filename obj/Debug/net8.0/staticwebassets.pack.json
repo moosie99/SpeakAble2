@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Test9.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Test9.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\GJoeBackgroundMusic.mp3",
+      "PackagePath": "staticwebassets\\media\\GJoeBackgroundMusic.mp3"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\GJoeSheep.mp3",
+      "PackagePath": "staticwebassets\\media\\GJoeSheep.mp3"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\HeyComic.ttf",
+      "PackagePath": "staticwebassets\\media\\HeyComic.ttf"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\aloneSheep.png",
+      "PackagePath": "staticwebassets\\media\\aloneSheep.png"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\angrySheep.png",
+      "PackagePath": "staticwebassets\\media\\angrySheep.png"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\bathSheep.png",
+      "PackagePath": "staticwebassets\\media\\bathSheep.png"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\companySheep.png",
+      "PackagePath": "staticwebassets\\media\\companySheep.png"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\dressedSheep.png",
+      "PackagePath": "staticwebassets\\media\\dressedSheep.png"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\happySheep.png",
+      "PackagePath": "staticwebassets\\media\\happySheep.png"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\hungrySheep.png",
+      "PackagePath": "staticwebassets\\media\\hungrySheep.png"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\logo.png",
+      "PackagePath": "staticwebassets\\media\\logo.png"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\medsSheep.png",
+      "PackagePath": "staticwebassets\\media\\medsSheep.png"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\painSheep.png",
+      "PackagePath": "staticwebassets\\media\\painSheep.png"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\sadSheep.png",
+      "PackagePath": "staticwebassets\\media\\sadSheep.png"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\thirstySheep.png",
+      "PackagePath": "staticwebassets\\media\\thirstySheep.png"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\tiredSheep.png",
+      "PackagePath": "staticwebassets\\media\\tiredSheep.png"
+    },
+    {
+      "Id": "c:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\wwwroot\\media\\toiletSheep.png",
+      "PackagePath": "staticwebassets\\media\\toiletSheep.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Test9.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Test9.props",
+      "PackagePath": "build\\Test9.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Test9.props",
+      "PackagePath": "buildMultiTargeting\\Test9.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Test9.props",
+      "PackagePath": "buildTransitive\\Test9.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
