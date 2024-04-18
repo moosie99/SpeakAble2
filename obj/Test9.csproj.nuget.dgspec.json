@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Test9.csproj": {}
+    "C:\\Users\\emmah\\OneDrive - Nottingham Trent University\\UNI\\SoftEng\\Year 3\\SpeakAble\\Test9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Test9.csproj": {
+    "C:\\Users\\emmah\\OneDrive - Nottingham Trent University\\UNI\\SoftEng\\Year 3\\SpeakAble\\Test9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Test9.csproj",
+        "projectUniqueName": "C:\\Users\\emmah\\OneDrive - Nottingham Trent University\\UNI\\SoftEng\\Year 3\\SpeakAble\\Test9.csproj",
         "projectName": "Test9",
-        "projectPath": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\Test9.csproj",
+        "projectPath": "C:\\Users\\emmah\\OneDrive - Nottingham Trent University\\UNI\\SoftEng\\Year 3\\SpeakAble\\Test9.csproj",
         "packagesPath": "C:\\Users\\emmah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emmah\\OneDrive\\Documents\\UNI\\FYP\\Test9\\obj\\",
+        "outputPath": "C:\\Users\\emmah\\OneDrive - Nottingham Trent University\\UNI\\SoftEng\\Year 3\\SpeakAble\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

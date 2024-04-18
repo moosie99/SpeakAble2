@@ -17,131 +17,131 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Test9
 build_property.RootNamespace = Test9
-build_property.ProjectDir = C:\Users\emmah\OneDrive\Documents\UNI\FYP\Test9\
+build_property.ProjectDir = C:\Users\emmah\OneDrive - Nottingham Trent University\UNI\SoftEng\Year 3\SpeakAble\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\emmah\OneDrive\Documents\UNI\FYP\Test9
+build_property.MSBuildProjectDirectory = C:\Users\emmah\OneDrive - Nottingham Trent University\UNI\SoftEng\Year 3\SpeakAble
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/CrisisPage.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/CrisisPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3Jpc2lzUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Error.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Index.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Privacy.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Shared/_LoginPartial.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Sheep/Alone.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Sheep/Alone.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hlZXBcQWxvbmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Sheep/Angry.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Sheep/Angry.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hlZXBcQW5ncnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Sheep/Bath.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Sheep/Bath.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hlZXBcQmF0aC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Sheep/Company.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Sheep/Company.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hlZXBcQ29tcGFueS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Sheep/Dressed.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Sheep/Dressed.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hlZXBcRHJlc3NlZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Sheep/Happy.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Sheep/Happy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hlZXBcSGFwcHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Sheep/Hungry.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Sheep/Hungry.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hlZXBcSHVuZ3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Sheep/Medication.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Sheep/Medication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hlZXBcTWVkaWNhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Sheep/Pain.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Sheep/Pain.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hlZXBcUGFpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Sheep/Sad.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Sheep/Sad.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hlZXBcU2FkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Sheep/Thirsty.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Sheep/Thirsty.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hlZXBcVGhpcnN0eS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Sheep/Tired.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Sheep/Tired.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hlZXBcVGlyZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Sheep/Toilet.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Sheep/Toilet.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hlZXBcVG9pbGV0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/_ViewImports.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/_ViewStart.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emmah/OneDrive/Documents/UNI/FYP/Test9/Pages/Shared/_Layout.cshtml]
+[C:/Users/emmah/OneDrive - Nottingham Trent University/UNI/SoftEng/Year 3/SpeakAble/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ovzc9q9gyj
